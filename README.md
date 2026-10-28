@@ -8,6 +8,3 @@
 <div>
   <img align="left" src="https://github-readme-stats-six-seven.vercel.app/api/top-langs/?username=GleamSlime&hide=less,scss,css,html,handlebars,glsl,shell,javascript,vue,batchfile" />
 </div>
-<div>
-  <img align="right" src="https://github-readme-stats-six-seven.vercel.app/api?username=GleamSlime&show_icons=true&icon_color=ad0d52&text_color=24292e&bg_color=ffffff&hide_title=true&count_private=true&include_all_commits=true" />
-</div>
